@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/saviour623?style=social">&nbsp;<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/onedeadlock?style=social">&nbsp;<img src="https://komarev.com/ghpvc/?username=onedeadlock&color=447ff7&label=Visitor+count" />&nbsp;<img src="https://komarev.com/ghpvc/?username=onedeadlock&color=blue" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/onedeadlock?style=social">&nbsp;<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/onedeadlock?style=social">&nbsp;<img src="https://komarev.com/ghpvc/?username=onedeadlock&color=447ff7&label=Visitor+count" />&nbsp;<img src="https://komarev.com/ghpvc/?username=onedeadlock&color=blue" />
 <div align="center">
 <img src="https://github.com/onedeadlock/onedeadlock/assets/106999975/ea1ea1e9-573e-4e9b-8312-e0bd9c770d4c" width=750em />
 </div>
