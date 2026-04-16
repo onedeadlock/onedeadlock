@@ -33,28 +33,6 @@ I'm considerably immersed in backend functionalities and low level programming. 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=onedeadlock&theme=algolia&hide_border=true" />
   </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<h4 align="center">For any enquiry, contribution or feedback, contact me on any of the medium provided below: </h4>
-<div align="center">
- <a href="mailto:saviourme33@gmail.com" >
-    <img align="center" alt="Saviour | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img align="center" alt="Saviour | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/saviour.michael.1650" target="_blank">
-      <img align="center" alt="Saviour | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/" target="_blank">
-    <img align="center" alt="Saviour| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/saviour623" target="_blank">
-    <img align="center" alt="Saviour | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-<p></p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&duration=3000&pause=100&center=true&repeat=true&width=450&lines=Before+you+go%2C+remember%2C+%22simplicity%2C;carried+to+the+extreme%2C+++becomes+;elegance.%E2%80%9D+%E2%80%94+Jon+Franklin+;Thanks+for+visiting+my+profile.+Bye!!" alt="Typing SVG" /></a>
   </div>
