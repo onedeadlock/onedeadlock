@@ -1,6 +1,6 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/saviour623?style=social">&nbsp;<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saviour623?style=social">&nbsp;<img src="https://komarev.com/ghpvc/?username=saviour623&color=447ff7&label=Visitor+count" />&nbsp;<img src="https://komarev.com/ghpvc/?username=saviour623&color=blue" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/saviour623?style=social">&nbsp;<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/onedeadlock?style=social">&nbsp;<img src="https://komarev.com/ghpvc/?username=saviour623&color=447ff7&label=Visitor+count" />&nbsp;<img src="https://komarev.com/ghpvc/?username=onedeadlock&color=blue" />
 <div align="center">
-<img src="https://github.com/saviour623/saviour623/assets/106999975/ea1ea1e9-573e-4e9b-8312-e0bd9c770d4c" width=750em />
+<img src="https://github.com/onedeadlock/onedeadlock/assets/106999975/ea1ea1e9-573e-4e9b-8312-e0bd9c770d4c" width=750em />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFBO40&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!!+I'm+Michael+Saviour;Welcome+to+my+profile!" alt="Title"></img>
