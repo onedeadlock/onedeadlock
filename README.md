@@ -3,18 +3,16 @@
 <img src="https://github.com/onedeadlock/onedeadlock/assets/106999975/ea1ea1e9-573e-4e9b-8312-e0bd9c770d4c" width=750em />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFBO40&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello!!+I'm+Michael+Saviour;Welcome+to+my+profile!" alt="Title"></img>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=So,+let+me+tell+you;a+little+about+my+self+%3C3" alt="Title"></img>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img> I'm another, in a million developers who enjoy designing, testing and maintaining system softwares and other related subjects.<br>
-I'm considerably immersed in backend functionalities and low level programming. That said, I'm also quite formidable in front-end design and programming. I'm profoundly a fan and a lazy competitor in competitive programming, numerical and vector mathematics. 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFBO40&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!;I+am+Michael+Saviour" alt="Title"></img>
+ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
+I am a Low Level System Software Developer.
+<br>
 ## Personal Data
 * ```Education``` Computer software engineering (2020 - 2023), Mechanical Engineering (2023 - Date)
-* ```Location``` Earth
-* ```Skills``` Mathematics - Writing - Poetry - Programming - Graphic design, Music
-* ```Hobbies``` Mathematics - Coding - Writing - Reading - Learning - Eating - Sleeping...
+* ```Location```  Earth
+* ```Skills`` ` Mathematics - Poetry - Programming - Graphic design, Music
+* ```Hobbies``` Eating - Learning - Coding - Reading - Writing - Eating
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack
 ### Languages
