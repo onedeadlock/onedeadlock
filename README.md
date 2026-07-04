@@ -3,8 +3,8 @@
 <img src="https://github.com/onedeadlock/onedeadlock/assets/106999975/ea1ea1e9-573e-4e9b-8312-e0bd9c770d4c" width=750em />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFBO40&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!;I+am+Michael+Saviour" alt="Title"></img>
- src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFBO40&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!;I+am+Michael+Saviour" alt="Title"></img></div>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 I am a Low Level System Software Developer.
 <br>
 ## Personal Data
@@ -13,7 +13,7 @@ I am a Low Level System Software Developer.
 * ```Skills`` ` Mathematics - Poetry - Programming - Graphic design, Music
 * ```Hobbies``` Eating - Learning - Coding - Reading - Writing - Eating
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
-</div>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![C++](https://img.shields.io/badge/C++-%236DB33F.svg?style=for-the-badge&logo=C++&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-5C2D91?style=for-the-badge&logo=bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
