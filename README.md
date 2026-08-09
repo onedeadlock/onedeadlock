@@ -6,14 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%FFBO40&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!;I+am+Michael+Saviour" alt="Title"></img></div>
 <div align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
-<br/><b>I am a Low Level System Software Developer</b><br/>
 </div>
-
-* ```Education``` Computer software engineering (2020 - 2023), Mechanical Engineering (2023 - Date)
-* ```Location```  Earth
-* ```Skills```    Mathematics - Poetry - Programming - Graphic design, Music
-* ```Hobbies```   Eating - Learning - Coding - Reading - Writing - Eating
-
+<div align="left">
+<br>
+<img src="https://readme-stats-github.pages.dev/api/typing?lines=Education%3A%20%20%20Mechanical%20Engineering%2C%20CSE%20%20x%3B%20Skills%3A%20%20%20%20%20%20Programming%2C%20Writing%2C%20Music%20%20x%3B%20Devop.stack%3A%20C%2C%20C%2B%2B%2C%20rust%2C%20Python%20%20x%3B%20Department%3A%20%20Mechatronics%2C%20System%20Software%20%20x&theme=dark&color=%231f8fff&particleColor=%230d1117&background=%230d1117"/>
+<br>
+</div>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></img>
 </div>
@@ -33,8 +31,8 @@
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whitehttps://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> My Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedeadlock&layout=compact&show_icon=true&theme=algolia" alt="onedeadlock-langs"/>
-<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=onedeadlock&layout=compact&show_icon=true&theme=algolia" alt="onedeadlock-stats"/> 
+
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=onedeadlock&layout=compact&show_icon=true&theme=algolia" alt="onedeadlock-stats"/> 
 -->
 </div>
 <div align="center">
