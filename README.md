@@ -9,7 +9,8 @@
 </div>
 <div align="center">
 <br>
-<img src="https://readme-stats-github.pages.dev/api/typing?lines=Education%3A%20%20%20Mechanical%20Engineering%2C%20CSE%20%20x%3B%20Skills%3A%20%20%20%20%20%20Programming%2C%20Writing%2C%20Music%20%20x%3B%20Devop.stack%3A%20C%2C%20C%2B%2B%2C%20rust%2C%20Python%20%20x%3B%20Department%3A%20%20Mechatronics%2C%20System%20Software%20%20x&theme=dark&color=%2333adff&particleColor=%230d1117&background=%23ff817"/>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+san&weight=400&size=15&pause=1000&color=33ADFF&multiline=true&repeat=false&width=460&height=105&lines=Education%3A%20%20%20%20Computer+Science%2C+Mechanical+Engineering+;Skills%3A++++++++++++++Programming%2C+Writing%2C+Music+;Devop.stack%3A+C%2C+C%2B%2B%2C+Rust%2C+Python+;Department%3A+Mechatronics%2FRobotics%2C+System+Software+;Job%3A+++++++++++++++++System+Software+Developer%2C+System+Admin)](https://git.io/typing-svg)
 <br>
 </div>
 <div align="center">
